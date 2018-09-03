@@ -159,4 +159,10 @@ section.art .copyright{
 }
 li > input {
 	margin-top: 5vw;
+	text-align: center;
+    justify-content: center;
+    margin-left: 13vw;
+    border-radius: 5vw;
+    height: 7vw;
+    width: 70vw;
 }
